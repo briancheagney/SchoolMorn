@@ -173,6 +173,6 @@ Module['FS_createPath']('/SchoolMorn/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 93, "filename": "/UE4CommandLine.txt"}, {"start": 93, "audio": 0, "end": 32577416, "filename": "/SchoolMorn/Content/Paks/SchoolMorn-HTML5.pak"}], "remote_package_size": 32577416, "package_uuid": "4abd0612-e13e-485d-be68-9d84742440cf"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 93, "filename": "/UE4CommandLine.txt"}, {"start": 93, "audio": 0, "end": 40138134, "filename": "/SchoolMorn/Content/Paks/SchoolMorn-HTML5.pak"}], "remote_package_size": 40138134, "package_uuid": "91f57331-16c6-4536-85a2-525b12cd2a86"});
 
 })();
